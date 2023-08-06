@@ -20,7 +20,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository</p>
 
 ```
-git clone "https://github.com/Stevenwaheed/WHOAMI.git"
+git clone "https://github.com/MiraRafat12/DNA-Analysis.git"
 ```
 
 <p>2. Install npm modules</p>
@@ -48,4 +48,3 @@ Technologies used in the project:
 *   seaborn
 *   biopython
 
-Streamlit Website: https://stevenwaheed-whoami-main-nntf6e.streamlit.app/
